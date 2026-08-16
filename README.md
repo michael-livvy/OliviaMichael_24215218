@@ -1,4 +1,4 @@
-# Machine Learning Labs
+# ANN Labs
 
 A collection of ML/DL implementations covering classification, regression, and image recognition using NumPy, TensorFlow, and PyTorch.
 
